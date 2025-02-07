@@ -1,0 +1,1 @@
+Projekt przedstawia stronę internetową, na której można przeglądać opinie innych użytkowników na temat książek. Zalogowani użytkownicy mogą podzielić się swoją oceną oraz opinią na temat przeczytanych książek.
